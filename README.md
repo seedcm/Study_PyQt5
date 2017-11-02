@@ -1,2 +1,2 @@
 # Study-PyQt5
-Please input the command of help（name）to
+学习使用PyQt5创建程序
